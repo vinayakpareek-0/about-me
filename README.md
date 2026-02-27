@@ -2,14 +2,14 @@
 
 Machine Learning | Generative AI | NLP | AI Systems
 
-I’m a B.Tech student specializing in Smart Manufacturing (AI/ML focus) at IIITDM Chennai. I build real-world AI systems — from classical ML pipelines to fine-tuned LLM agents and deployed inference services. My work focuses on taking models beyond experimentation into scalable, production-ready systems.
+I’m a B.Tech student specializing in Smart Manufacturing (AI/ML focus) at IIITDM Chennai. I build real-world AI systems, from classical ML pipelines to fine-tuned LLM agents and deployed inference services. My work focuses on taking models beyond experimentation into scalable, production-ready systems.
 
 ---
 
 ## What I Do
 
 - End-to-end Machine Learning systems  
-- Predictive Analytics and Remaining Useful Life (RUL) forecasting  
+- Predictive Analytics and time series forecasting  
 - NLP and Large Language Models (LLMs)  
 - Retrieval-Augmented Generation (RAG) systems  
 - Model deployment using FastAPI, Docker, and MongoDB  
@@ -17,7 +17,7 @@ I’m a B.Tech student specializing in Smart Manufacturing (AI/ML focus) at IIIT
 
 ---
 
-## Featured Projects
+## Personal Projects
 
 ### OwlsAsk – Enterprise QA Agent
 
@@ -48,21 +48,22 @@ GitHub: https://github.com/vinayakpareek-0/turbofan-predictive-maintenance
 ## Tech Stack
 
 **Languages:** Python, C++, C, JavaScript  
-**ML & AI:** PyTorch, Hugging Face Transformers, XGBoost, Scikit-learn, FastAI  
+**ML & AI:** PyTorch, Hugging Face Transformers, XGBoost, Scikit-learn, FastAI, LangChain  
 **LLMs:** QLoRA, RLHF, DPO, FAISS, RAG pipelines  
 **Deployment:** FastAPI, Docker, MongoDB  
-**Tools:** Git, VS Code, LangChain  
+**Tools:** Git, VS Code
 
 ---
 
 ## My Approach
 
-I focus on building systems that solve real problems — not just achieving high scores in notebooks. Every project I publish is designed to be:
+I focus on building systems that solve real problems, not just achieving high scores in notebooks. Every project I publish is designed to be:
 
 - Reproducible  
 - Deployable  
 - Clear and well-structured  
-- Built using solid engineering practices  
+- Built using solid engineering practices
+- And most important- to learn more 
 
 ---
 
