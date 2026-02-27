@@ -1,10 +1,9 @@
- 👋 Hi, I’m Vinayak 
+ ## 👋 Hi, I’m Vinayak 
 
 Machine Learning | Generative AI | NLP | AI Systems
 
 I’m a B.Tech student specializing in Smart Manufacturing and AI/ML at IIITDM Chennai. I build real-world AI systems — from ML pipelines to fine-tuned LLM agents and deployed inference services.
 
-⸻
 
 ### What I Do
 	•	End-to-end Machine Learning systems
@@ -14,7 +13,6 @@ I’m a B.Tech student specializing in Smart Manufacturing and AI/ML at IIITDM C
 	•	Model deployment with FastAPI, Docker, MongoDB
 	•	Production-ready pipelines & backend services
 
-⸻
 
 ### Featured Projects
 
@@ -28,7 +26,6 @@ Tech: Llama 3.1 8B, QLoRA, Unsloth, FAISS, FastAPI, MongoDB, REST APIs
 
 Github: https://github.com/vinayakpareek-0/OwlsAsk
 
-⸻
 
 #### Predictive Maintenance ML System
 
@@ -39,7 +36,7 @@ Tech: Python, Scikit-learn, XGBoost, Feature Engineering, Pipeline Design
 
 Github: https://github.com/vinayakpareek-0/turbofan-predictive-maintenance
 
-⸻
+
 
 ### Tech Stack
 
@@ -49,7 +46,7 @@ LLMs: QLoRA, RLHF, DPO, FAISS, RAG
 Deployment: FastAPI, Docker, MongoDB
 Tools: Git, VS Code, LangChain
 
-⸻
+
 
 ### My Approach
 
